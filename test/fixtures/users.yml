@@ -3,3 +3,9 @@ cory:
   last_name: "Wilbur"
   email: "cwilbur12@gmail.com"
   profile_name: "cwilbur"
+
+brian:
+  first_name: "Brian"
+  last_name: "Eastman"
+  email: "beastman@gmail.com"
+  profile_name: "beastman"
