@@ -3,5 +3,3 @@ cory:
   last_name: "Wilbur"
   email: "cwilbur12@gmail.com"
   profile_name: "cwilbur"
-  encrypted_password: "12345678"
-  #password_confirmation: "12345678"
