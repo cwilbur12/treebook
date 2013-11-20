@@ -9,3 +9,9 @@ brian:
   last_name: "Eastman"
   email: "beastman@gmail.com"
   profile_name: "beastman"
+
+trevor:
+  first_name: "Trevor"
+  last_name: "Wilbur"
+  email: "twilbur@gmail.com"
+  profile_name: "twilbur"
