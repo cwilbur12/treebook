@@ -12,6 +12,9 @@ Treebook::Application.routes.draw do
   end
 
   resources :statuses
+
+  resources :user_friendships
+
   get 'feed', to: 'statuses#index', as: :feed
   root to: 'statuses#index'
 
